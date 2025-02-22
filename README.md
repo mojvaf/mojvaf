@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-- 🔭 I’m currently working on my jewellery project.
 - 🌱 I’m currently learning Tailwind
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me: mvafa44@gmail.com
