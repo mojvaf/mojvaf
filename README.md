@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🌱 I’m currently learning Tailwind
+- 🌱 I’m currently learning Machine Learning and Django
 - 👯 I’m looking to collaborate on open source.
 - 📫 How to reach me: mvafa44@gmail.com
 
